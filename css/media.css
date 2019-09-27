@@ -2192,7 +2192,7 @@ form input {
 	
 	padding: 5px 10px;
 	display: inline-block;
-	margin-top: -30px;
+	margin-top: 20px;
 	border-radius: 5px;
 background-color: #7976a3;
 }
@@ -2238,34 +2238,54 @@ background-color: #7976a3;
 }
 
 .copyright2 {
-    margin-right: 10px;
-    width: 35%;
+    margin-left: 50px;
+    width: 90%;
     float: left;
     color: white;
 }
 .copyright3 {
-  
-    width: 20%;
+  margin-left: 50px;
+    width: 60%;
     float: left;
     color: #a49ac3;
 }
-.copyright3 p {
+.social-link{margin-left: 40px;
+
+	width: 100%;
+	float: left;
+	color: #a49ac3;
+}
+.social-link p{
+	margin-bottom: 0px;
+	font-size: 18px;
+	color: #333333;
+}
+.copyright{
+	width: 100%;
+	float: left;
+}
+
+.copyright3 p {margin-bottom: 0px;
     margin-left: 0px;
-    font-size: 16px;
+    font-size: 14px;
     color: #333333;
 }
 .copyright3 a {
 	margin-top: -30px;
     margin-left: 0px;
     color: #333333;
-    font-size: 16px;
+    font-size: 14px;
     text-decoration: none;
 }
-}
-@media (max-width: 400px){
 
 
+
+
+
+
+
 }
+
 
 
 
