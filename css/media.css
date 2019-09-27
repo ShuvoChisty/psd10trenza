@@ -968,7 +968,7 @@ background-color: #7976a3;
     color: #a49ac3;
 }
 .copyright3 p {
-    margin-left: 0px;
+    margin-left: 30px;
     font-size: 16px;
     color: #333333;
 }
@@ -1331,7 +1331,7 @@ background-color: #7976a3;
     color: #a49ac3;
 }
 .copyright3 p {
-    margin-left: 0px;
+    margin-left: 30px;
     font-size: 16px;
     color: #333333;
 }
@@ -2266,9 +2266,9 @@ background-color: #7976a3;
 }
 
 .copyright3 p {margin-bottom: 0px;
-    margin-left: 0px;
+    margin-left: 30px;
     font-size: 14px;
-    color: #333333;
+    color: #333333;text-align: center;
 }
 .copyright3 a {
 	margin-top: -30px;
